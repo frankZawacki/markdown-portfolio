@@ -7,16 +7,16 @@ Skills and Awesome Attributes
   5. C++
   6. Javascript
 * **Tools**
-  * MS Visual Studio
-  * Visual Studio Code
-  * Eclipse
-  * JetBrains IDEs
-  * Git 
-  * GitHub
-  * MS Office Suite
+  * *MS Visual Studio*
+  * *Visual Studio Code*
+  * *Eclipse*
+  * *JetBrains IDEs*
+  * *Git* 
+  * *GitHub*
+  * *MS Office Suite*
 * **Other**
   * JQuery
   * Bootstrap
   * ASP.NET MVC
   * ASP.NET 
-  * NET
+  * .NET
